@@ -13,7 +13,7 @@ endif
 let g:colors_name = 'suedepritch'
 
 " Base groups
-hi! Constant guifg=#FF3370 ctermfg=105
+hi! Constant guifg=#FF3370 ctermfg=197
 hi! Identifier guifg=#F93969 ctermfg=87
 hi! Comment guifg=#CC9966 ctermfg=215
 hi! Statement guifg=#668ACC ctermfg=111
