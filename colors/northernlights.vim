@@ -10,7 +10,7 @@ if exists("syntax_on")
   syntax on
 endif
 
-let g:colors_name = 'northernlights'
+let g:colors_name = 'suedepritch'
 
 " Base groups
 hi! Constant guifg=#FF3370 ctermfg=105
