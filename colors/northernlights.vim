@@ -13,13 +13,13 @@ endif
 let g:colors_name = 'northernlights'
 
 " Base groups
-hi! Constant guifg=#4C4EE6 ctermfg=105
+hi! Constant guifg=#FF3370 ctermfg=105
 hi! Identifier guifg=#F93969 ctermfg=87
 hi! Comment guifg=#CC9966 ctermfg=215
 hi! Statement guifg=#668ACC ctermfg=111
 hi! Preproc guifg=#66CC77 ctermfg=85
 hi! Type guifg=#6666CC ctermfg=105
-hi! Special guifg=#00D8EB ctermfg=85
+hi! Special guifg=#3BD5F7 ctermfg=85
 hi! Underlined guifg=#66CC77 ctermfg=85
 hi! Ignore guifg=#B6BECC ctermfg=250
 hi! Error guibg=#CC6666 guifg=#0F141F ctermbg=210
