@@ -19,7 +19,7 @@ hi! Constant guifg=#CC9966 ctermfg=215
 hi! Statement guifg=#FF5F87 ctermfg=204
 hi! Preproc guifg=#5f00ff ctermfg=57
 hi! Type guifg=#6666CC ctermfg=105
-hi! Special guifg=#5f00ff ctermfg=57
+hi! Special guifg=#5fafaf ctermfg=73
 hi! Underlined guifg=#5f00ff ctermfg=57
 hi! Ignore guifg=#B6BECC ctermfg=250
 hi! Error guibg=#CC6666 guifg=#0F141F ctermbg=210
