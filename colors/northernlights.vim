@@ -23,12 +23,12 @@ hi! Preproc                     ctermfg=57
 hi! Type                        ctermfg=105
 " brackets and react components
 hi! Special                     ctermfg=73
-hi! Underlined                  ctermfg=57
+hi! Underlined                  ctermfg=67
 hi! Ignore                      ctermfg=250
-hi! Error                      ctermbg=210
-hi! Todo                       ctermbg=111
+hi! Error          ctermbg=210
+hi! Todo           ctermbg=111
 
-hi! Title                       ctermfg=210
+hi! Title                      ctermfg=210
 hi! Cursor         ctermfg=233 ctermbg=250
 hi! Normal         ctermfg=250 ctermbg=233
 hi! Visual                     ctermbg=225
