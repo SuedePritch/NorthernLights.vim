@@ -15,10 +15,12 @@ let g:colors_name = 'suedepritch'
 " Base groups
 hi! Comment guifg=#ff8787 ctermfg=210
 hi! Identifier guifg=#5fafff ctermfg=75
-hi! Constant guifg=#CC9966 ctermfg=215
+hi! Constant guifg=#ff005f ctermfg=197
 hi! Statement guifg=#FF5F87 ctermfg=204
-hi! Preproc guifg=#5f00ff ctermfg=57
+" this does import & from 
+hi! Preproc guifg=#ff005f ctermfg=57
 hi! Type guifg=#6666CC ctermfg=105
+" brackets and react components
 hi! Special guifg=#5fafaf ctermfg=73
 hi! Underlined guifg=#5f00ff ctermfg=57
 hi! Ignore guifg=#B6BECC ctermfg=250
