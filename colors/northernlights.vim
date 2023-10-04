@@ -25,44 +25,44 @@ hi! Type                        ctermfg=105
 hi! Special                     ctermfg=73
 hi! Underlined                  ctermfg=57
 hi! Ignore                      ctermfg=250
-hi! Error         guibg=#CC6666             ctermbg=210
-hi! Todo          guibg=#668ACC             ctermbg=111
+hi! Error                      ctermbg=210
+hi! Todo                       ctermbg=111
 
 hi! Title                       ctermfg=210
-hi! Cursor        guibg=#1A2438 ctermfg=233 ctermbg=250
-hi! Normal        guibg=#0F141F ctermfg=250 ctermbg=233
-hi! Visual        guibg=#ffd7ff                           ctermbg=225
-hi! EndOfBuffer   guibg=#0F141F ctermbg=233 ctermfg=250
-hi! LineNr        guibg=#161E2E ctermbg=234 ctermfg=255
-hi! CursorLineNr  guibg=#161E2E ctermbg=234 ctermfg=255
+hi! Cursor         ctermfg=233 ctermbg=250
+hi! Normal         ctermfg=250 ctermbg=233
+hi! Visual                     ctermbg=225
+hi! EndOfBuffer    ctermbg=233 ctermfg=250
+hi! LineNr         ctermbg=234 ctermfg=255
+hi! CursorLineNr   ctermbg=234 ctermfg=255
 
-hi! Pmenu guibg=#161E2E guifg=#B6BECC ctermbg=234 ctermfg=250
-hi! PmenuSel guibg=#668ACC guifg=#E3EDFF ctermbg=111 ctermfg=250
+hi! Pmenu   ctermbg=234 ctermfg=250
+hi! PmenuSel   ctermbg=111 ctermfg=250
 
-hi! ErrorMsg guifg=#CC6666 guibg=#0F141F ctermbg=233 ctermfg=210
-hi! Keyword guifg=#668ACC ctermfg=111
+hi! ErrorMsg   ctermbg=233 ctermfg=210
+hi! Keyword  ctermfg=111
 
-hi! Search guibg=#CC9966 guifg=#0F141F ctermbg=215 ctermfg=233
-hi! MoreMsg guifg=#668ACC ctermfg=111
-hi! WarningMsg guifg=#CC9966 ctermfg=215
-hi! TabLine guibg=#0F141F guifg=#B6BECC ctermbg=233 ctermfg=250
-hi! TabLineSel guibg=#161E2E guifg=#B6BECC ctermbg=234 ctermfg=250
-hi! TabLineFill guifg=#0A0D14 guibg=#B6BECC ctermbg=232 ctermfg=250
+hi! Search   ctermbg=215 ctermfg=233
+hi! MoreMsg  ctermfg=111
+hi! WarningMsg  ctermfg=215
+hi! TabLine   ctermbg=233 ctermfg=250
+hi! TabLineSel   ctermbg=234 ctermfg=250
+hi! TabLineFill   ctermbg=232 ctermfg=250
 
-hi! DiffAdd guifg=#0F141F guibg=#66CC77 ctermfg=121 ctermbg=233
-hi! DiffChange guifg=#0F141F guibg=#668ACC ctermfg=111 ctermfg=233
-hi! DiffDelete guifg=#0F141F guibg=#CC6666 ctermfg=210 ctermfg=233
-hi! DiffText guifg=#0F141F guibg=#CC6666 ctermfg=233 ctermbg=210
-hi! MatchParen guibg=#24314D ctermbg=242
+hi! DiffAdd   ctermfg=121 ctermbg=233
+hi! DiffChange   ctermfg=111 ctermfg=233
+hi! DiffDelete   ctermfg=210 ctermfg=233
+hi! DiffText   ctermfg=233 ctermbg=210
+hi! MatchParen  ctermbg=242
 
-hi! NonText guifg=#B6BECC ctermfg=250
-hi! SpecialKey guifg=#66CCCA ctermfg=121
-hi! Directory guifg=#66CCCA ctermfg=87
+hi! NonText  ctermfg=250
+hi! SpecialKey  ctermfg=121
+hi! Directory  ctermfg=87
 
-hi! StatusLine guibg=#668ACC guifg=#0F141F ctermbg=111 ctermfg=232
+hi! StatusLine   ctermbg=111 ctermfg=232
 
-hi! Folded guibg=#161E2E guifg=#668ACC ctermfg=111 ctermbg=234
-hi! FoldColumn guibg=#0A0D14 guifg=#668ACC ctermbg=232 ctermfg=111
+hi! Folded   ctermfg=111 ctermbg=234
+hi! FoldColumn   ctermbg=232 ctermfg=111
 
-hi! WildMenu guifg=#0F141F guibg=#668ACC ctermfg=233 ctermbg=111
-hi! VertSplit guifg=#0A0D14 guibg=#0A0D14 ctermfg=232 ctermbg=232
+hi! WildMenu   ctermfg=233 ctermbg=111
+hi! VertSplit   ctermfg=232 ctermbg=232
