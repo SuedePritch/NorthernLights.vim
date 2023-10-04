@@ -19,7 +19,7 @@ hi! Identifier                  ctermfg=75
 hi! Constant                    ctermfg=215
 hi! Statement                   ctermfg=204
 " this does import & from 
-hi! Preproc                     ctermfg=57
+hi! Preproc                     ctermfg=67
 hi! Type                        ctermfg=105
 " brackets and react components
 hi! Special                     ctermfg=73
