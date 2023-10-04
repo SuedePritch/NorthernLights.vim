@@ -40,7 +40,7 @@ hi! Pmenu   ctermbg=234 ctermfg=250
 hi! PmenuSel   ctermbg=111 ctermfg=250
 
 hi! ErrorMsg   ctermbg=233 ctermfg=210
-hi! Keyword  ctermfg=111
+hi! Keyword  ctermfg=197
 
 hi! Search   ctermbg=215 ctermfg=233
 hi! MoreMsg  ctermfg=111
