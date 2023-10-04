@@ -13,14 +13,14 @@ endif
 let g:colors_name = 'suedepritch'
 
 " Base groups
-hi! Comment guifg=#ff5f5f ctermfg=203
-hi! Identifier guifg=#5FD7FF ctermfg=81
+hi! Comment guifg=#ff8787 ctermfg=210
+hi! Identifier guifg=#5fafff ctermfg=75
 hi! Constant guifg=#CC9966 ctermfg=215
 hi! Statement guifg=#FF5F87 ctermfg=204
-hi! Preproc guifg=#66CC77 ctermfg=85
+hi! Preproc guifg=#ff005f ctermfg=197
 hi! Type guifg=#6666CC ctermfg=105
-hi! Special guifg=#3BD5F7 ctermfg=85
-hi! Underlined guifg=#66CC77 ctermfg=85
+hi! Special guifg=#ff005f ctermfg=197
+hi! Underlined guifg=#ff005f ctermfg=197
 hi! Ignore guifg=#B6BECC ctermfg=250
 hi! Error guibg=#CC6666 guifg=#0F141F ctermbg=210
 hi! Todo guifg=#0F141F guibg=#668ACC ctermbg=111
@@ -28,7 +28,7 @@ hi! Todo guifg=#0F141F guibg=#668ACC ctermbg=111
 hi! Title guifg=#CC6666 ctermfg=210
 hi! Cursor guibg=#1A2438 guifg=#0F141F ctermfg=233 ctermbg=250
 hi! Normal  guibg=#0F141F guifg=#B6BECC ctermfg=250 ctermbg=233
-hi! Visual guibg=#1A2438 ctermbg=234
+hi! Visual guibg=#ffd7ff ctermbg=225
 hi! EndOfBuffer guibg=#0F141F guifg=#B6BECC ctermbg=233 ctermfg=250
 hi! LineNr guibg=#161E2E guifg=#B6BECC ctermbg=234 ctermfg=255
 hi! CursorLineNr guibg=#161E2E guifg=#E3EDFF ctermbg=234 ctermfg=255
