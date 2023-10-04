@@ -13,27 +13,28 @@ endif
 let g:colors_name = 'suedepritch'
 
 " Base groups
-hi! Comment guifg=#ff8787 ctermfg=210
-hi! Identifier guifg=#5fafff ctermfg=75
-hi! Constant guifg=#ff005f ctermfg=197
-hi! Statement guifg=#FF5F87 ctermfg=204
+hi! Comment                     ctermfg=210
+hi! Identifier                  ctermfg=75
+" filepaths, strings, booleans
+hi! Constant                    ctermfg=215
+hi! Statement                   ctermfg=204
 " this does import & from 
-hi! Preproc guifg=#ff005f ctermfg=57
-hi! Type guifg=#6666CC ctermfg=105
+hi! Preproc                     ctermfg=57
+hi! Type                        ctermfg=105
 " brackets and react components
-hi! Special guifg=#5fafaf ctermfg=73
-hi! Underlined guifg=#5f00ff ctermfg=57
-hi! Ignore guifg=#B6BECC ctermfg=250
-hi! Error guibg=#CC6666 guifg=#0F141F ctermbg=210
-hi! Todo guifg=#0F141F guibg=#668ACC ctermbg=111
+hi! Special                     ctermfg=73
+hi! Underlined                  ctermfg=57
+hi! Ignore                      ctermfg=250
+hi! Error         guibg=#CC6666             ctermbg=210
+hi! Todo          guibg=#668ACC             ctermbg=111
 
-hi! Title guifg=#CC6666 ctermfg=210
-hi! Cursor guibg=#1A2438 guifg=#0F141F ctermfg=233 ctermbg=250
-hi! Normal  guibg=#0F141F guifg=#B6BECC ctermfg=250 ctermbg=233
-hi! Visual guibg=#ffd7ff ctermbg=225
-hi! EndOfBuffer guibg=#0F141F guifg=#B6BECC ctermbg=233 ctermfg=250
-hi! LineNr guibg=#161E2E guifg=#B6BECC ctermbg=234 ctermfg=255
-hi! CursorLineNr guibg=#161E2E guifg=#E3EDFF ctermbg=234 ctermfg=255
+hi! Title                       ctermfg=210
+hi! Cursor        guibg=#1A2438 ctermfg=233 ctermbg=250
+hi! Normal        guibg=#0F141F ctermfg=250 ctermbg=233
+hi! Visual        guibg=#ffd7ff                           ctermbg=225
+hi! EndOfBuffer   guibg=#0F141F ctermbg=233 ctermfg=250
+hi! LineNr        guibg=#161E2E ctermbg=234 ctermfg=255
+hi! CursorLineNr  guibg=#161E2E ctermbg=234 ctermfg=255
 
 hi! Pmenu guibg=#161E2E guifg=#B6BECC ctermbg=234 ctermfg=250
 hi! PmenuSel guibg=#668ACC guifg=#E3EDFF ctermbg=111 ctermfg=250
