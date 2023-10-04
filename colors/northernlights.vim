@@ -21,7 +21,7 @@ hi! Statement                   ctermfg=204
 " this does import & from 
 hi! Preproc                     ctermfg=67
 hi! Type                        ctermfg=105
-" brackets and react components
+" brackets and react components classes
 hi! Special                     ctermfg=73
 hi! Underlined                  ctermfg=67
 hi! Ignore                      ctermfg=250
@@ -40,6 +40,7 @@ hi! Pmenu   ctermbg=234 ctermfg=250
 hi! PmenuSel   ctermbg=111 ctermfg=250
 
 hi! ErrorMsg   ctermbg=233 ctermfg=210
+" const, async, await
 hi! Keyword  ctermfg=197
 
 hi! Search   ctermbg=215 ctermfg=233
@@ -55,7 +56,7 @@ hi! DiffDelete   ctermfg=210 ctermfg=233
 hi! DiffText   ctermfg=233 ctermbg=210
 hi! MatchParen  ctermbg=242
 
-hi! NonText  ctermfg=250
+hi! NonText  ctermfg=53
 hi! SpecialKey  ctermfg=121
 hi! Directory  ctermfg=87
 
