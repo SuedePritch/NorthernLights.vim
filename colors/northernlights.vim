@@ -27,7 +27,7 @@ hi! Type                        ctermfg=105
 hi! Special                     ctermfg=125
 hi! Underlined                  ctermfg=57
 hi! Ignore                      ctermfg=250
-hi! Error          ctermbg=200
+hi! Error          ctermbg=109
 hi! Todo           ctermbg=219
 
 
