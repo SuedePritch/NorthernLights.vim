@@ -14,7 +14,7 @@ let g:colors_name = 'suedepritch'
 " Base groups
 hi! Comment                     ctermfg=239
 " function/variable names
-hi! Identifier                  ctermfg=69
+hi! Identifier                  ctermfg=87
 " filepaths, strings, booleans
 hi! Constant                    ctermfg=157
 " if/else/try/catch
@@ -51,29 +51,4 @@ hi! PmenuSel   ctermbg=111 ctermfg=197
 
 hi! ErrorMsg   ctermbg=000 ctermfg=000
 " const, async, await
-hi! Keyword  ctermfg=45
-
-hi! Search   ctermbg=000 ctermfg=000
-hi! MoreMsg  ctermfg=111
-hi! WarningMsg  ctermfg=215
-hi! TabLine   ctermbg=000 ctermfg=000
-hi! TabLineSel   ctermbg=000 ctermfg=000
-hi! TabLineFill   ctermbg=000 ctermfg=000
-
-hi! DiffAdd   ctermfg=121 ctermbg=000
-hi! DiffChange   ctermfg=000 ctermfg=000
-hi! DiffDelete   ctermfg=210 ctermfg=000
-hi! DiffText   ctermfg=000 ctermbg=210
-hi! MatchParen  ctermbg=000
-
-hi! NonText  ctermfg=015
-hi! SpecialKey  ctermfg=000
-hi! Directory  ctermfg=229
-
-hi! StatusLine   ctermbg=111 ctermfg=232
-
-hi! Folded   ctermfg=111 ctermbg=234
-hi! FoldColumn   ctermbg=232 ctermfg=111
-
-hi! WildMenu   ctermfg=000 ctermbg=111
-hi! VertSplit   ctermfg=232 ctermbg=232
+hi! Keyword  ctermfg=51
