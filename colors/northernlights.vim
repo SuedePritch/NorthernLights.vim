@@ -13,7 +13,7 @@ endif
 let g:colors_name = 'suedepritch'
 
 " Base groups
-hi! Comment                     ctermfg=203
+hi! Comment                     ctermfg=248
 " function/variable names
 hi! Identifier                  ctermfg=15
 " filepaths, strings, booleans
