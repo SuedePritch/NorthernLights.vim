@@ -15,19 +15,19 @@ let g:colors_name = 'suedepritch'
 " Base groups
 hi! Comment                     ctermfg=239
 " function/variable names
-hi! Identifier                  ctermfg=117
+hi! Identifier                  ctermfg=87
 " filepaths, strings, booleans
-hi! Constant                    ctermfg=121
+hi! Constant                    ctermfg=105
 " if/else/return/export/const
-hi! Statement                   ctermfg=170
+hi! Statement                   ctermfg=111
 " this does import & from 
-hi! Preproc                     ctermfg=197
+hi! Preproc                     ctermfg=85
 " Nameof react components mongoose schema names
-hi! Type                        ctermfg=49
+hi! Type                        ctermfg=105
 " brackets and classes
 hi! Special                     ctermfg=197
-hi! Underlined                  ctermfg=160
-hi! Ignore                      ctermfg=180
+hi! Underlined                  ctermfg=85
+hi! Ignore                      ctermfg=250
 hi! Error          ctermbg=200
 hi! Todo           ctermbg=219
 
