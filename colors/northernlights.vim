@@ -14,7 +14,7 @@ let g:colors_name = 'suedepritch'
 
 " Base groups
 hi! Comment                     ctermfg=210
-hi! Identifier                  ctermfg=231
+hi! Identifier                  ctermfg=228
 " filepaths, strings, booleans
 hi! Constant                    ctermfg=225
 hi! Statement                   ctermfg=204
@@ -22,7 +22,7 @@ hi! Statement                   ctermfg=204
 hi! Preproc                     ctermfg=176
 hi! Type                        ctermfg=105
 " brackets and react components classes
-hi! Special                     ctermfg=231
+hi! Special                     ctermfg=201
 hi! Underlined                  ctermfg=67
 hi! Ignore                      ctermfg=250
 hi! Error          ctermbg=210
