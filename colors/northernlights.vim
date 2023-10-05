@@ -15,7 +15,7 @@ let g:colors_name = 'suedepritch'
 " Base groups
 hi! Comment                     ctermfg=203
 " function/variable names
-hi! Identifier                  ctermfg=69
+hi! Identifier                  ctermfg=81
 " filepaths, strings, booleans
 hi! Constant                    ctermfg=50
 " if/else/return/export
