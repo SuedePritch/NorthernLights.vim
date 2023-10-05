@@ -44,7 +44,7 @@ hi! Normal         ctermfg=168 ctermbg=000
 hi! Visual                     ctermbg=159
 hi! EndOfBuffer    ctermbg=000 ctermfg=000
 " Line Numbers
-hi! LineNr         ctermbg=000 ctermfg=19
+hi! LineNr         ctermbg=000 ctermfg=225
 hi! CursorLineNr   ctermbg=000 ctermfg=000
 
 hi! Pmenu   ctermbg=000 ctermfg=015
