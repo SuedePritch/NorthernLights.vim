@@ -13,16 +13,19 @@ endif
 let g:colors_name = 'suedepritch'
 
 " Base groups
-hi! Comment                     ctermfg=20
-hi! Identifier                  ctermfg=40
+hi! Comment                     ctermfg=203
+" function/variable names
+hi! Identifier                  ctermfg=69
 " filepaths, strings, booleans
-hi! Constant                    ctermfg=60
-hi! Statement                   ctermfg=80
+hi! Constant                    ctermfg=50
+" if/else/return/export
+hi! Statement                   ctermfg=63
 " this does import & from 
-hi! Preproc                     ctermfg=100
-hi! Type                        ctermfg=120
-" brackets and react components classes
-hi! Special                     ctermfg=140
+hi! Preproc                     ctermfg=72
+" Nameof react components mongoose schema names
+hi! Type                        ctermfg=20
+" brackets and classes
+hi! Special                     ctermfg=87
 hi! Underlined                  ctermfg=160
 hi! Ignore                      ctermfg=180
 hi! Error          ctermbg=200
