@@ -17,7 +17,7 @@ hi! Comment                     ctermfg=203
 " function/variable names
 hi! Identifier                  ctermfg=81
 " filepaths, strings, booleans
-hi! Constant                    ctermfg=50
+hi! Constant                    ctermfg=172
 " if/else/return/export/const
 hi! Statement                   ctermfg=170
 " this does import & from 
