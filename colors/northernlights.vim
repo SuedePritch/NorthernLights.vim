@@ -38,7 +38,7 @@ hi! Todo           ctermbg=219
 
 
 
-hi! Title                      ctermfg=000
+hi! Title                      ctermfg=015
 hi! Cursor         ctermfg=000 ctermbg=000
 hi! Normal         ctermfg=000 ctermbg=000
 hi! Visual                     ctermbg=000
@@ -46,7 +46,7 @@ hi! EndOfBuffer    ctermbg=000 ctermfg=000
 hi! LineNr         ctermbg=000 ctermfg=000
 hi! CursorLineNr   ctermbg=000 ctermfg=000
 
-hi! Pmenu   ctermbg=000 ctermfg=000
+hi! Pmenu   ctermbg=000 ctermfg=015
 hi! PmenuSel   ctermbg=111 ctermfg=197
 
 hi! ErrorMsg   ctermbg=000 ctermfg=000
@@ -66,7 +66,7 @@ hi! DiffDelete   ctermfg=210 ctermfg=000
 hi! DiffText   ctermfg=000 ctermbg=210
 hi! MatchParen  ctermbg=000
 
-hi! NonText  ctermfg=000
+hi! NonText  ctermfg=015
 hi! SpecialKey  ctermfg=000
 hi! Directory  ctermfg=229
 
