@@ -18,7 +18,7 @@ hi! Comment                     ctermfg=239
 hi! Identifier                  ctermfg=69
 " filepaths, strings, booleans
 hi! Constant                    ctermfg=157
-" if/else/return/export/const
+" if/else/try/catch
 hi! Statement                   ctermfg=127
 " this does import & from 
 hi! Preproc                     ctermfg=85
@@ -26,7 +26,7 @@ hi! Preproc                     ctermfg=85
 hi! Type                        ctermfg=105
 " brackets and classes
 hi! Special                     ctermfg=47
-hi! Underlined                  ctermfg=85
+hi! Underlined                  ctermfg=57
 hi! Ignore                      ctermfg=250
 hi! Error          ctermbg=200
 hi! Todo           ctermbg=219
