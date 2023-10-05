@@ -41,7 +41,7 @@ hi! Todo           ctermbg=219
 hi! Title                      ctermfg=015
 hi! Cursor         ctermfg=168 ctermbg=000
 hi! Normal         ctermfg=168 ctermbg=000
-hi! Visual                     ctermbg=000
+hi! Visual                     ctermbg=159
 hi! EndOfBuffer    ctermbg=000 ctermfg=000
 hi! LineNr         ctermbg=000 ctermfg=000
 hi! CursorLineNr   ctermbg=000 ctermfg=000
@@ -49,6 +49,6 @@ hi! CursorLineNr   ctermbg=000 ctermfg=000
 hi! Pmenu   ctermbg=000 ctermfg=015
 hi! PmenuSel   ctermbg=111 ctermfg=197
 
-hi! ErrorMsg   ctermbg=000 ctermfg=000
+hi! ErrorMsg   ctermbg=000 ctermfg=015
 " const, async, await
 hi! Keyword  ctermfg=51
