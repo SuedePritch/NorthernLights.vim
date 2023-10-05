@@ -23,7 +23,7 @@ hi! Statement                   ctermfg=170
 " this does import & from 
 hi! Preproc                     ctermfg=197
 " Nameof react components mongoose schema names
-hi! Type                        ctermfg=57
+hi! Type                        ctermfg=49
 " brackets and classes
 hi! Special                     ctermfg=197
 hi! Underlined                  ctermfg=160
