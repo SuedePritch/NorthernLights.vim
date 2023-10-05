@@ -19,7 +19,7 @@ hi! Identifier                  ctermfg=69
 " filepaths, strings, booleans
 hi! Constant                    ctermfg=157
 " if/else/return/export/const
-hi! Statement                   ctermfg=111
+hi! Statement                   ctermfg=127
 " this does import & from 
 hi! Preproc                     ctermfg=85
 " Nameof react components mongoose schema names
