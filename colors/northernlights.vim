@@ -14,7 +14,7 @@ let g:colors_name = 'suedepritch'
 " Base groups
 hi! Comment                     ctermfg=239
 " function/variable names
-hi! Identifier                  ctermfg=87
+hi! Identifier                  ctermfg=82
 " filepaths, strings, booleans
 hi! Constant                    ctermfg=157
 " if/else/try/catch
@@ -39,8 +39,8 @@ hi! Todo           ctermbg=219
 
 
 hi! Title                      ctermfg=015
-hi! Cursor         ctermfg=211 ctermbg=000
-hi! Normal         ctermfg=211 ctermbg=000
+hi! Cursor         ctermfg=168 ctermbg=000
+hi! Normal         ctermfg=168 ctermbg=000
 hi! Visual                     ctermbg=000
 hi! EndOfBuffer    ctermbg=000 ctermfg=000
 hi! LineNr         ctermbg=000 ctermfg=000
