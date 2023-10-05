@@ -25,7 +25,7 @@ hi! Preproc                     ctermfg=197
 " Nameof react components mongoose schema names
 hi! Type                        ctermfg=32
 " brackets and classes
-hi! Special                     ctermfg=87
+hi! Special                     ctermfg=197
 hi! Underlined                  ctermfg=160
 hi! Ignore                      ctermfg=180
 hi! Error          ctermbg=200
