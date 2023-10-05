@@ -3,7 +3,6 @@ if !has('gui_running') && &t_Co < 256
   finish
 endif
 
-set background=dark
 
 highlight clear
 if exists("syntax_on")
@@ -39,37 +38,37 @@ hi! Todo           ctermbg=219
 
 
 
-hi! Title                      ctermfg=210
-hi! Cursor         ctermfg=000 ctermbg=250
-hi! Normal         ctermfg=250 ctermbg=233
-hi! Visual                     ctermbg=225
-hi! EndOfBuffer    ctermbg=000 ctermfg=250
-hi! LineNr         ctermbg=234 ctermfg=255
-hi! CursorLineNr   ctermbg=234 ctermfg=255
+hi! Title                      ctermfg=000
+hi! Cursor         ctermfg=000 ctermbg=000
+hi! Normal         ctermfg=000 ctermbg=000
+hi! Visual                     ctermbg=000
+hi! EndOfBuffer    ctermbg=000 ctermfg=000
+hi! LineNr         ctermbg=000 ctermfg=000
+hi! CursorLineNr   ctermbg=000 ctermfg=000
 
-hi! Pmenu   ctermbg=234 ctermfg=223
+hi! Pmenu   ctermbg=000 ctermfg=000
 hi! PmenuSel   ctermbg=111 ctermfg=197
 
-hi! ErrorMsg   ctermbg=000 ctermfg=210
+hi! ErrorMsg   ctermbg=000 ctermfg=000
 " const, async, await
 hi! Keyword  ctermfg=45
 
-hi! Search   ctermbg=215 ctermfg=000
+hi! Search   ctermbg=000 ctermfg=000
 hi! MoreMsg  ctermfg=111
 hi! WarningMsg  ctermfg=215
-hi! TabLine   ctermbg=000 ctermfg=250
-hi! TabLineSel   ctermbg=234 ctermfg=250
-hi! TabLineFill   ctermbg=232 ctermfg=250
+hi! TabLine   ctermbg=000 ctermfg=000
+hi! TabLineSel   ctermbg=000 ctermfg=000
+hi! TabLineFill   ctermbg=000 ctermfg=000
 
 hi! DiffAdd   ctermfg=121 ctermbg=000
-hi! DiffChange   ctermfg=111 ctermfg=000
+hi! DiffChange   ctermfg=000 ctermfg=000
 hi! DiffDelete   ctermfg=210 ctermfg=000
 hi! DiffText   ctermfg=000 ctermbg=210
-hi! MatchParen  ctermbg=242
+hi! MatchParen  ctermbg=000
 
-hi! NonText  ctermfg=53
-hi! SpecialKey  ctermfg=121
-hi! Directory  ctermfg=87
+hi! NonText  ctermfg=000
+hi! SpecialKey  ctermfg=000
+hi! Directory  ctermfg=229
 
 hi! StatusLine   ctermbg=111 ctermfg=232
 
