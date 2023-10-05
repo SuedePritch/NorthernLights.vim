@@ -16,10 +16,10 @@ let g:colors_name = 'suedepritch'
 hi! Comment                     ctermfg=210
 hi! Identifier                  ctermfg=75
 " filepaths, strings, booleans
-hi! Constant                    ctermfg=215
+hi! Constant                    ctermfg=225
 hi! Statement                   ctermfg=204
 " this does import & from 
-hi! Preproc                     ctermfg=67
+hi! Preproc                     ctermfg=176
 hi! Type                        ctermfg=105
 " brackets and react components classes
 hi! Special                     ctermfg=73
@@ -41,7 +41,7 @@ hi! PmenuSel   ctermbg=111 ctermfg=197
 
 hi! ErrorMsg   ctermbg=233 ctermfg=210
 " const, async, await
-hi! Keyword  ctermfg=75
+hi! Keyword  ctermfg=45
 
 hi! Search   ctermbg=215 ctermfg=233
 hi! MoreMsg  ctermfg=111
