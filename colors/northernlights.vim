@@ -29,4 +29,4 @@ hi! Special                     ctermfg=197
 hi! Underlined                  ctermfg=160
 hi! Ignore                      ctermfg=180
 hi! Error          ctermbg=200
-hi! Todo           ctermbg=220
+hi! Todo           ctermbg=219
