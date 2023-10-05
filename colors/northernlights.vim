@@ -19,11 +19,11 @@ hi! Identifier                  ctermfg=69
 " filepaths, strings, booleans
 hi! Constant                    ctermfg=50
 " if/else/return/export
-hi! Statement                   ctermfg=63
+hi! Statement                   ctermfg=83
 " this does import & from 
-hi! Preproc                     ctermfg=72
+hi! Preproc                     ctermfg=197
 " Nameof react components mongoose schema names
-hi! Type                        ctermfg=20
+hi! Type                        ctermfg=32
 " brackets and classes
 hi! Special                     ctermfg=87
 hi! Underlined                  ctermfg=160
