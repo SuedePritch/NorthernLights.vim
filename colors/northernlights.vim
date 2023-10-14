@@ -39,8 +39,8 @@ hi! Todo           ctermbg=219
 
 
 hi! Title                      ctermfg=015
-hi! Cursor         ctermfg=104 ctermbg=000
-hi! Normal         ctermfg=104 ctermbg=000
+hi! Cursor         ctermfg=27 ctermbg=000
+hi! Normal         ctermfg=30 ctermbg=000
 hi! Visual                     ctermbg=104
 hi! EndOfBuffer    ctermbg=000 ctermfg=000
 " Line Numbers
