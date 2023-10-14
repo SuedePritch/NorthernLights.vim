@@ -25,7 +25,7 @@ hi! Preproc                     ctermfg=85
 hi! Type                        ctermfg=105
 " brackets and classes
 hi! Special                     ctermfg=68
-hi! Underlined                  ctermfg=57
+hi! Underlined                  ctermfg=153
 hi! Ignore                      ctermfg=250
 hi! Error          ctermbg=109
 hi! Todo           ctermbg=219
